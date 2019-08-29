@@ -1,4 +1,4 @@
-# Perceptron-algorithm-from-scratch
+# Perceptron-algorithm-in-python-from-scratch
 Classification task solved by means of the perceptron algorithm in python language, by using only the numpy library.
 There is one dataset about cancer/healthy patients, already splitted in two .cvs file, to train (breast-train.csv) and test (breast-test.csv) the perceptron.
 The file get_data.py allows to import the data, throw a fuction that receives the file names of the train and test set, and returns:
